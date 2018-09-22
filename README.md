@@ -7,6 +7,10 @@ o workshop modificados para as minhas dúvidas e necessidades. Vou usar esse esp
 
 https://github.com/fmasanori
 
+Os arquivos necessários para executar os códigos estão no repositório "treinamento"
+https://github.com/fmasanori/treinamento
+
+
 ### link do evento
 
 https://www.facebook.com/events/2362102900683584/
